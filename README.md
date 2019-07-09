@@ -10,5 +10,5 @@ site and allow others on your local network access it.
 -you just add domain name from the machine that is 
 hosting the website.
 
-#requirements
+# requirements
 -bind 9 [9.14 to be specific ;-)]
